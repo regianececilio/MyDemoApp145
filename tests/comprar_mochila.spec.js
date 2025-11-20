@@ -91,5 +91,5 @@ async function main () {
   
 }
  
-main().catch(console.log);
+main().catch(console.log)
   
